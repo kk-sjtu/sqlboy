@@ -1,0 +1,2 @@
+# sqlboy
+data scientist plan
